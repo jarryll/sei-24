@@ -1,0 +1,73 @@
+  The killer is Jeremy Bowers.
+  
+  
+  504  cd command-line-murder-mystery
+  505  ls
+  506  cd instructions
+  507  sublime instructions
+  508  cd mystery
+  509  ls
+  510  cat crimescene | grep CLUE
+  511  cd memberships
+  512  ls
+  513  cat AAA
+  514  cd ../
+  515  ls
+  516  cd people
+  517  cat people
+  518  cat people | grep Annabel
+  519  ls
+  520  cd interviews
+  521  ls
+  522  cd ..
+  523  ls
+  524  cd streets
+  525  cat streets
+  526  ls
+  527  cat -n Hart_Place 
+  528  cd ..
+  529  cd interviews
+  530  cat INTERVIEW #47246024
+  531  ls
+  532  cat interview-47246024
+  533  cd ..
+  534  cd streets
+  535  cat Mattapan_Street
+  536  cat -173  Mattapan_Street
+  537  cat -n Mattapan_Street
+  538  cat -n Buckingham_Place
+  539  cat -n Haley_Street
+  540  cd ..
+  541  cd interviews
+  542  cat interview-9437737
+  543  cat interview-699607
+  544  cat interview-699607
+  545  cat interview-699607
+  546  cat interview-871877
+  547  cd ..
+  548  cd vehicles
+  549  ls
+  550  cat vehicles
+  551  cat vehicles | grep L337
+  552  cat vehicles | grep Honda
+  553  cat vehicles | grep Blue
+  554  cat vehicles | grep L337ZR9
+  555  cat vehicles | grep 'L337*\Blue\Honda'
+  556  grep "Blue\|Honda" vehicles
+  557  grep "L337*\|Blue\|Honda vehicles
+  558  grep "L337*\|Blue\|Honda vehicles
+  559  cat vehicles
+  560  grep -A 5 L337 vehicles
+  561  ls
+  562  cd memberships
+  563  ls
+  564  grep "Erika\|Owens" library.txt museum.txt Delta_SkyMiles AAA
+  565  grep "Jeremy\|Bowers" library.txt museum.txt Delta_SkyMiles AAA
+  566  grep "Jaqui\|Maher" library.txt museum.txt Delta_SkyMiles AAA
+  567  grep "Joe\|Germuska" library.txt museum.txt Delta_SkyMiles AAA
+  568  cd ..
+  569  cd people
+  570  ls
+  571  cat people
+  572  grep "Jacqui\|Maher" people
+  573  history
